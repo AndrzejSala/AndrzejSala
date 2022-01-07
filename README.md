@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+👂 My name is pronounced as: (Polish) [ˈandʐɛj]
+
+📖 I’m currently learning advanced concepts in typescript.
+
+⚡ Fun fact: Last year I started playing chess. Feel free to challenge me on chees.com () 😉
+
+🔭 I’m currently working on open-source utils for react apps.
+
+
+
+
+
 <!--
 **AndrzejSala/AndrzejSala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
