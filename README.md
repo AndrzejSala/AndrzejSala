@@ -4,7 +4,7 @@
 
 📖 I’m currently learning advanced concepts in typescript.
 
-⚡ Fun fact: Last year I started playing chess. Feel free to challenge me on chees.com (polski_polrodukt) 😉
+⚡ Fun fact: Last year I started playing chess. Feel free to challenge me on chess.com (polski_polrodukt) 😉
 
 🔭 I’m currently working on open-source utils for react apps.
 
