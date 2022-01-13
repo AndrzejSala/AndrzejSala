@@ -4,7 +4,7 @@
 
 👂 My name is pronounced as: (Polish) [ˈandʐɛj]
 
-📖 I’m currently learning advanced concepts in typescript.
+📖 I’m currently learning advanced concepts in typescript and mechanism of state machines.
 
 ⚡ Fun fact: Last year I started playing chess. Feel free to challenge me on chess.com (polski_polrodukt) 😉
 
