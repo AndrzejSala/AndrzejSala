@@ -2,13 +2,14 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Andrzej! 
 </h3>
 
-👂 My name is pronounced as: (Polish) [ˈandʐɛj]
+🚀 5+ years of experience as software enginner (frontend / fullstack)
 
-📖 I’m currently learning advanced concepts in typescript and mechanism of state machines.
+📖 I’m currently learning advanced concepts in typescript and Rust lang.
 
-⚡ Fun fact: Last year I started playing chess. Feel free to challenge me on chess.com (polski_polrodukt) 😉
+⚡ Long distance runner 🏃‍♂️ and chess.com player 🏁
 
-🔭 I’m currently working on open-source utils for react apps.
+Feel free to check my linkedin:
+https://www.linkedin.com/in/andrzej-sala-382940109/
 
 ![AndrzejSala's Stats](https://github-readme-stats.vercel.app/api?username=AndrzejSala&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![AndrzejSala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
