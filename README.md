@@ -4,7 +4,7 @@
 
 🚀 5+ years of experience as software enginner (frontend / fullstack)
 
-📖 I’m currently learning advanced concepts in typescript and Rust lang.
+📖 I’m currently learning advanced concepts in typescript and go lang.
 
 ⚡ Long distance runner 🏃‍♂️ and chess.com player 🏁
 
