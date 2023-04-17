@@ -2,7 +2,7 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Andrzej! 
 </h3>
 
-🚀 5+ years of experience as software enginner (frontend / fullstack)
+🚀 7+ years of experience as software enginner
 
 📖 I’m currently learning advanced concepts in typescript and go lang.
 
