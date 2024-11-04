@@ -11,9 +11,6 @@
 Feel free to check my linkedin:
 https://www.linkedin.com/in/andrzej-sala-382940109/
 
-![AndrzejSala's Stats](https://github-readme-stats.vercel.app/api?username=AndrzejSala&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![AndrzejSala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 <!--
 **AndrzejSala/AndrzejSala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
